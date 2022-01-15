@@ -1,4 +1,4 @@
-package ru.vsu.cs.ilyam.test;
+package test;
 
 
 import org.junit.jupiter.api.Test;
