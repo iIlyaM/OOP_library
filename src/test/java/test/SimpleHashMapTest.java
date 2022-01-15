@@ -1,6 +1,5 @@
 package test;
 
-
 import org.junit.jupiter.api.Test;
 import ru.vsu.cs.ilyam.hashmap.ISimpleMap;
 import ru.vsu.cs.ilyam.hashmap.SimpleHashMap;
